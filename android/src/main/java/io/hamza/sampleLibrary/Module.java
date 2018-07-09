@@ -1,4 +1,4 @@
-package io.cmichel.boilerplate;
+package io.hamza.sampleLibrary;
 
 import android.widget.Toast;
 
